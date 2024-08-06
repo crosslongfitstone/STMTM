@@ -33,7 +33,7 @@ All benchmark datasets can be obtained from [Google Drive](https://drive.google.
         |-- ETTm2.csv
         |-- Weather.csv
         |-- Electricity.csv
-        |-- Exchange.csv
+        |-- exchange_rate.csv
         |-- PEMS08/
             |-- PEMS08.npz
 
