@@ -71,7 +71,7 @@ parser.add_argument('--use_multi_gpu', action='store_true', help='use multiple g
 parser.add_argument('--devices', type=str, default='0', help='device ids of multile gpus') 
 
 # Pre-train
-parser.add_argument('--kernel_size', type=int, default=25, help='kernel size for extracting trend') #
+parser.add_argument('--kernel_size', type=int, default=100, help='kernel size for extracting trend') #
 parser.add_argument('--seg_len', type=int, default=25, help='mask segment length') #
 parser.add_argument('--p_tmask', type=float, default=0.2, help='masking ratio of trend component') #
 parser.add_argument('--topk', type=int, default=3, help='number of masked series of seasonal component') #
