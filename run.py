@@ -4,7 +4,7 @@ from exp.exp_stmtm import Exp_STMTM
 import random
 import numpy as np
 import os
-os.environ['CUDA_LAUNCH_BLOCKING'] = '0'
+# os.environ['CUDA_LAUNCH_BLOCKING'] = '0'
 
 #%%
 parser = argparse.ArgumentParser(description='TSMTM')
