@@ -4,9 +4,6 @@
 
 ### This repository provides PyTorch implementation of ST-MTM from the paper "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting"
 
-# Key designs
-
-
 
 # Requirements
 
